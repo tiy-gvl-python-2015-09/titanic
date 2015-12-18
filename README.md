@@ -1,4 +1,4 @@
-# Enter the Titanic Kaggle competition
+# Titanic: The Kaggle Competition
 
 ## Description
 
