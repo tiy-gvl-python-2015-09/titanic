@@ -1,8 +1,12 @@
-# Enter the Titanic Kaggle competition
+# Titanic: The Kaggle Competition
 
 ## Description
 
-Enter the [Titanic competition on Kaggle](https://www.kaggle.com/c/titanic-gettingStarted) used to help new entrants learn about classification and using Kaggle.
+The [Titanic competition on Kaggle](https://www.kaggle.com/c/titanic-gettingStarted) asks participants to use training data to guess which passengers survived the Titanic disaster, based on their demographics.
+
+Out of 2200 passengers, only 700 survived the disaster; women, children, and first-class passengers survived at the highest rates. One interesting take-away: Among each class of passenger (1st, 2nd, or 3rd class), the passengers who paid the LEAST for tickets had the best survival rate. There is something to be said for scrappy, resourceful, people!
+
+Analyzing the data provided, I predicted survivors with 79.9% accuracy; enough to rank in the top 25% of entrants!
 
 ## Objectives
 
